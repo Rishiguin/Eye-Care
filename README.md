@@ -1,7 +1,7 @@
 # Eye-Care
 A simple program to remind to take break while working for long times looking at a screen.
 
-![start](https://pasteboard.co/qB2FuC4H6oAX.png)
+<img src="https://pasteboard.co/qB2FuC4H6oAX.png" alt="Example Image"/>
 
 After eye rest:
 
