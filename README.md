@@ -5,7 +5,7 @@ A simple program to remind to take break while working for long times looking at
 
 After eye rest:
 
-![end](https://pasteboard.co/7OtkXO8AnXT1.png)
+![end](https://gcdnb.pbrd.co/images/qB2FuC4H6oAX.png)
 
 Used modules which you need to install using pip :
    1. win10toast  (for desktop notifications)
